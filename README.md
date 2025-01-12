@@ -11,7 +11,7 @@ Data Science Portfolio
  
  - One Major takeaway from the project I learned is, that it's not about the tool, it is about solving the problem that add value to business
 
-# [Project: 2 Cloud based Youtube Data Analysis and Data Engineering](https://github.com/Manav-56/Cloud-based-Youtube-Data-Analysis-and-Data-Engineering-Project) 
+# [Project: 2 Cloud based Youtube Data Analysis and Data Engineering](https://github.com/Akshaytank007/Cloud-based-Youtube-Data-Analysis-and-Data-Engineering-Project)
 
 - Client Wants to launching new data-driven campaign, and for that they want to do marketing via advertisement
 
@@ -32,7 +32,7 @@ Data Science Portfolio
 - Tasks :
   - Data Ingestion, Data Lake, ETL Design, Build Dashboard
 
-# [Project: 3 Data-Warehouse-using-PostgreSQL](https://github.com/Manav-56/Data-Warehouse-using-PostgreSQL)
+# [Project: 3 Data-Warehouse-using-PostgreSQL](https://github.com/Akshaytank007/Data-Warehouse-using-PostgreSQL)
 
 - Configured Dimensional Modeling within Data Warehouse
 
